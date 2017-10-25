@@ -35,8 +35,8 @@ class Notification: UIViewController,UITableViewDelegate,UITableViewDataSource {
         users.append(user4)
         
         
-        let sample1 : String = "Hello mother fucekrs"
-        let sample2 : String = "Hello mother fucekrs"
+        let sample1 : String = "Hello World"
+        let sample2 : String = "Hello World"
         
         
         
